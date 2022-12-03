@@ -1,5 +1,5 @@
 # MICLe_Pytorch
-Unoffitial PyTorch implementation of the paper [Azizi, S., Mustafa, B., Ryan, F., Beaver, Z., Freyberg, J., Deaton, J., ... & Norouzi, M. (2021). Big self-supervised models advance medical image classification. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 3478-3488).](https://arxiv.org/abs/2101.05224)
+Unoffitial PyTorch implementation of MICLe implementation of the paper [Azizi, S., Mustafa, B., Ryan, F., Beaver, Z., Freyberg, J., Deaton, J., ... & Norouzi, M. (2021). Big self-supervised models advance medical image classification. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 3478-3488).](https://arxiv.org/abs/2101.05224)
 
 ## Requirements
 - Python 3.7
