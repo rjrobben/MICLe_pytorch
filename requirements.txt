@@ -2,5 +2,5 @@ torch
 torchvision
 pytorch-lightning
 lightly
-pl-bolt
+lightning-bolts
 pillow
